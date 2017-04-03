@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyGoogleMaps</string>
+
+    <string name="goMaps">Go Maps!</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="madrid">Madrid</string>
+    <string name="barcelona">Barcelona</string>
+    <string name="fuerteventura">Fuerteventura</string>
+    <string name="coruna">Coruña</string>
+</resources>
